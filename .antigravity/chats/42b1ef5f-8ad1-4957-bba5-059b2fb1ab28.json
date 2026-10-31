@@ -40,6 +40,18 @@
       "created_at": "2026-10-31T01:02:53.427Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "1c4e5ab3-7839-44e9-9374-2bb862f38e62",
+      "role": "user",
+      "content": "А сейчас",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-31T01:06:18.349Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
