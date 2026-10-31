@@ -3,17 +3,29 @@
   "name": "Start a REST API with Node.js",
   "createdAt": "2026-10-31T01:00:08.477Z",
   "filename": "42b1ef5f-8ad1-4957-bba5-059b2fb1ab28.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "d3ae0c07-cc39-4ab5-8730-678a91e4997f",
+      "role": "user",
+      "content": "Видишь ли ты моб историю потому что у меня еще антигравити на макбуке",
+      "status": "cancelled",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-31T01:01:26.597Z",
+      "sender": "ios",
+      "is_cancelled": true
+    },
+    {
+      "id": "de6e035f-1915-47fa-8231-3e4cb1d7c846",
       "role": "user",
       "content": "Видишь ли ты моб историю потому что у меня еще антигравити на макбуке",
       "status": "pending",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
-      "created_at": "2026-10-31T01:01:26.597Z",
+      "created_at": "2026-10-31T01:01:58.153Z",
       "sender": "ios",
       "is_cancelled": false
     }
